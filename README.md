@@ -74,7 +74,6 @@ Strengthened service linkages between OVC/DREAMS programs
 and PMTCT initiatives within the sub-county, improving service
 integration and delivery.
 
-# Aug 2019 – Sep 2021
 # iPrEP Study Coordinator
 ICAP Kenya
 Led research initiatives assessing the feasibility and acceptability
@@ -98,7 +97,6 @@ Contributed to published research, providing evidence-based
 insights into public health interventions. (Publication available via
 PLoS Global Public Health).
 
-# Apr 2017 – Jul 2019
 # Group Antenatal and Postnatal Care for Adolescents and
 Young Women Living with HIV – Study Coordinator
 ICAP Kenya
