@@ -1,11 +1,12 @@
 # Public-health-expert
+
 # About
 I am a dedicated public health expert with a strong foundation in nursing and extensive experience in gender, PMTCT (Prevention of Mother-to-Child Transmission), research, and program management. My work is driven by a passion for improving community health outcomes through evidence-based approaches, inclusive health systems, and strategic program implementation.
+
 # Work Experience
 # Sep 2024-Mar 2025
 # Technical Advisor – Gender
 PATH – Kenya (USAID Nuru Ya Mtoto)
-
 Lead the integration of safeguarding policies into program design
 and implementation, ensuring compliance with international
 standards and organizational guidelines.
@@ -35,6 +36,7 @@ community care.
 Establish and maintain partnerships with healthcare providers,
 government entities, and civil society organizations to enhance
 service delivery.
+
 # Feb 2023-Aug 2024
 # Gender-Based Violence (GBV) / Medically Assisted Therapy
 (MAT) Lead | CIHEB Kenya
@@ -59,6 +61,7 @@ collaboration with key stakeholders.
 Oversaw the implementation of Safeguarding and Child
 Protection policies, reinforcing compliance with national and
 organizational standards.
+
 # Dec 2021-Jan 2023
 # Prevention of Mother-to-Child Transmission (PMTCT)
 Specialist | CIHEB Kenya
@@ -73,6 +76,7 @@ improved health outcomes in supported facilities.
 Strengthened service linkages between OVC/DREAMS programs
 and PMTCT initiatives within the sub-county, improving service
 integration and delivery.
+
 # Aug 2019 – Sep 2021
 # iPrEP Study Coordinator
 ICAP Kenya
@@ -85,6 +89,7 @@ while optimizing the research workflow.
 Designed and executed targeted mobilization campaigns,
 successfully enrolling over 300 high-risk individuals into the PrEP
 program, expanding access to HIV prevention services.
+
 # Aug 2019 – Sep 2020
 # PMTCT/GBV/iPrEP Study Coordinator
 ICAP Kenya
@@ -96,6 +101,7 @@ strengthening survivor support systems.
 Contributed to published research, providing evidence-based
 insights into public health interventions. (Publication available via
 PLoS Global Public Health).
+
 # Apr 2017 – Jul 2019
 # Group Antenatal and Postnatal Care for Adolescents and
 Young Women Living with HIV – Study Coordinator
@@ -109,6 +115,7 @@ maternal health.
 Contributed to published research, offering critical insights into
 maternal and child health interventions. (Publication available via
 BMC Pregnancy and Childbirth)
+
 # Nov 2016 – Mar 2017
 # PMTCT Specialist
 University of Maryland
@@ -118,6 +125,7 @@ strategies for pregnant women.
 Provided technical guidance and mentorship, enhancing service
 delivery and adherence to national PMTCT standards, resulting in
 improved patient outcomes.
+
 # Jan 2014 – Oct 2015
 # Assistant Study Coordinator
 KEMRI (RCTP FACES Program)
@@ -127,6 +135,7 @@ in HIV/AIDS treatment and care models.
 Assisted in data collection, analysis, and dissemination of research
 findings, supporting the development of evidence-based
 interventions for HIV care and prevention.
+
 # Nov 2010 – Dec 2013
 # Lead Nurse – Satellite Clinic
 Provided direct clinical care and leadership in a satellite clinic,
@@ -135,6 +144,7 @@ population.
 Managed a team of nurses, ensuring the delivery of high-quality
 care, patient adherence to treatment protocols, and compliance
 with national healthcare standards.
+
 # Jun 2008 – Sep 2010
 # HIV/AIDS and STI Technical Officer
 Christian Health Association of Kenya
@@ -152,6 +162,7 @@ Epidemiology and Biostatistics
 Jaramogi Oginga Odinga
 University of Science and
 Technology
+
 # 2013-2016
 Bachelor of Science in
 Community Health and
@@ -159,10 +170,12 @@ Development
 Jaramogi Oginga Odinga
 University of Science and
 Technology
+
 # 2005 – 2007
 Diploma in Community Health
 Nursing
 Kenya Medical Training College
+
 # Training & Certifications
 Clinical Management of
 Gender-Based Violence
@@ -248,6 +261,7 @@ learning
 Inspiring trust and
 confidence
 Commitment
+
 # Achievements
 Spearheaded gendertransformative strategies to
 enhance service delivery for
@@ -294,6 +308,7 @@ enhance service delivery.
 # Languages
 English-Fluent (written and spoken)
 Kiswahili-Fluent (written and spoken)
+
 # Value & Behavior
 Commitment to gender
 equality, girls' rights, and child
@@ -305,22 +320,3 @@ Strong interpersonal and
 negotiation skills.
 Self-motivated, innovative,
 and results-oriented.
-
-# Referees
-
-Coordinated care and
-developed educational
-materials to improve
-treatment adherence among
-adolescents and young
-women living with HIV.
-Designed a data tracking
-system for PMTCT programs
-to enhance monitoring and
-decision-making.
-Facilitated performance
-reviews and quality
-improvement initiatives to
-enhance service delivery.
-Jam
-
